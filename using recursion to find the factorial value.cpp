@@ -11,7 +11,7 @@ int main( ){
 int n;
 cout<<"Enter the value of n: "; 
   cin>>n;
-  cout<<"the factorial of n is: ";
+  cout<<"the factorial of "<< n <<" is : ;
   cout<<nProduct(n);
   return 0;
 }
